@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_practica1" android:title="Práctica 1"/>
+    <item android:id="@+id/nav_practica2" android:title="Práctica 2"/>
+    <item android:id="@+id/nav_practica3" android:title="Práctica 3"/>
+    <item android:id="@+id/nav_practica4" android:title="Práctica 4"/>
+    <item android:id="@+id/nav_juego" android:title="Juego: Piedra, Papel o Tijera"/>
+</menu>
